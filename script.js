@@ -1,5 +1,5 @@
 export const capitalizeString = str => str.toUpperCase();
-/*class:03-Syntax
+/*class:03-Syntax.
 
 //JavaScript is CASE & SPACE sensitive
 
